@@ -1,16 +1,42 @@
-## Hi there 👋
+# Halo, saya Ahmad Dien Zidan👋
 
-<!--
-**fischerys/fischerys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya seorang pelajar Kelas Informatika di **MAN 2 Kota Banjarmasin**, kelas 11. Saat ini saya sedang mendalami dunia pemrograman, terutama dengan bahasa **Python** dan **C++**.
 
-Here are some ideas to get you started:
+## 🧑‍💻 Tentang Saya
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏫 Pelajar Kelas Informatika, MAN 2 Kota Banjarmasin
+- 🌱 Sedang belajar **Python** dan **C++**
+- 💻 Tertarik pada logika pemrograman, struktur data, dan algoritma dasar
+- 🎯 Ingin terus berkembang jadi programmer yang lebih baik
+- 📫 Hubungi saya: [emanzarko@gmail.com)
+
+## 🛠️ Bahasa & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+## 📊 Statistik GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=default" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB" alt="GitHub streak" />
+</p>
+
+## 🌱 Sedang Dipelajari
+
+- Dasar-dasar struktur data & algoritma
+- Pemecahan masalah (problem solving) dengan Python & C++
+- Latihan project-project kecil untuk memperkuat konsep dasar
+
+## 🌐 Terhubung dengan Saya
+
+- GitHub: [@USERNAME_GITHUB](https://github.com/USERNAME_GITHUB)
+- Instagram: [@username_kamu](https://instagram.com/username_kamu)
+
+---
+
+⭐️ Terima kasih sudah mampir ke profil saya!
