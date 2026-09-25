@@ -19,13 +19,6 @@ Saya seorang pelajar Kelas Informatika di **MAN 2 Kota Banjarmasin**, kelas 11. 
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
-## 📊 Statistik GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=default" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB" alt="GitHub streak" />
-</p>
-
 ## 🌱 Sedang Dipelajari
 
 - Dasar-dasar struktur data & algoritma
