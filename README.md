@@ -8,7 +8,7 @@ Saya seorang pelajar Kelas Informatika di **MAN 2 Kota Banjarmasin**, kelas 11. 
 - 🌱 Sedang belajar **Python** dan **C++**
 - 💻 Tertarik pada logika pemrograman, struktur data, dan algoritma dasar
 - 🎯 Ingin terus berkembang jadi programmer yang lebih baik
-- 📫 Hubungi saya: [emanzarko@gmail.com)
+- 📫 Hubungi saya:  emanzarko@gmail.com
 
 ## 🛠️ Bahasa & Tools
 
