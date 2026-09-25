@@ -34,8 +34,7 @@ Saya seorang pelajar Kelas Informatika di **MAN 2 Kota Banjarmasin**, kelas 11. 
 
 ## 🌐 Terhubung dengan Saya
 
-- GitHub: [@USERNAME_GITHUB](https://github.com/USERNAME_GITHUB)
-- Instagram: [@username_kamu](https://instagram.com/username_kamu)
+- Instagram: ((https://www.instagram.com/zidan_dien?stkn=NDc4djhxaTA0dTM3))
 
 ---
 
