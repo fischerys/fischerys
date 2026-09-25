@@ -34,7 +34,7 @@ Saya seorang pelajar Kelas Informatika di **MAN 2 Kota Banjarmasin**, kelas 11. 
 
 ## 🌐 Terhubung dengan Saya
 
-- Instagram: ((https://www.instagram.com/zidan_dien?stkn=NDc4djhxaTA0dTM3))
+- Instagram: @zidan-dien https://www.instagram.com/zidan_dien?stkn=NDc4djhxaTA0dTM3
 
 ---
 
